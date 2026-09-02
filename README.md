@@ -8,11 +8,13 @@ and containerised deployments.
 
 ## Selected work
 
-Ten sites live in production, plus the platform I'm building now:
+Ten sites live in production, two enterprise platforms delivered as technical lead, and the project I'm building now:
 
 | Site | What it is | Built with |
 |---|---|---|
 | [Carsties](https://github.com/williamelturk/Carsties) | Auction platform built as .NET microservices (in progress) | .NET, C#, PostgreSQL, MongoDB, EF Core, Docker |
+| [Campus Radar](https://github.com/williamelturk/williamelturk/blob/main/case-studies/campus-radar-case-study.pdf) | Higher-education performance intelligence platform for a Gulf college network: KPI reporting, student analytics & resource planning (case study PDF) | Next.js 15, TypeScript, .NET 8, EF Core, SQL Server, Redis, Power BI |
+| [WorkForce IQ](https://github.com/williamelturk/williamelturk/blob/main/case-studies/workforce-iq-case-study.pdf) | Government workforce productivity platform, bilingual EN/AR: data collection, medallion warehouse & executive reporting (case study PDF) | Blazor Server, .NET 8, EF Core, SQL Server, SSIS, MinIO, Power BI |
 | [sfeir-climatec.com](https://sfeir-climatec.com) | Air conditioning & eco-friendly climate solutions in Beirut, for a 47-year-old family business | Next.js 15, TypeScript, Tailwind CSS, Nodemailer |
 | [pierrecardinme.com](https://pierrecardinme.com) | Pierre Cardin Middle East's accessories store: leather goods, cigar accessories & writing instruments | WordPress, WooCommerce, Elementor, PHP |
 | [vietrendy.com](https://vietrendy.com) | Designer handbag rental by subscription, delivered across Lebanon | WordPress, WooCommerce, WooCommerce Memberships, PHP |
