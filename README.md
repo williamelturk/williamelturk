@@ -8,10 +8,11 @@ and containerised deployments.
 
 ## Selected work
 
-Ten sites I've built and shipped, all live in production:
+Ten sites live in production, plus the platform I'm building now:
 
 | Site | What it is | Built with |
 |---|---|---|
+| [Carsties](https://github.com/williamelturk/Carsties) | Auction platform built as .NET microservices (in progress) | .NET, C#, PostgreSQL, MongoDB, EF Core, Docker |
 | [sfeir-climatec.com](https://sfeir-climatec.com) | Air conditioning & eco-friendly climate solutions in Beirut, for a 47-year-old family business | Next.js 15, TypeScript, Tailwind CSS, Nodemailer |
 | [pierrecardinme.com](https://pierrecardinme.com) | Pierre Cardin Middle East's accessories store: leather goods, cigar accessories & writing instruments | WordPress, WooCommerce, Elementor, PHP |
 | [vietrendy.com](https://vietrendy.com) | Designer handbag rental by subscription, delivered across Lebanon | WordPress, WooCommerce, WooCommerce Memberships, PHP |
@@ -23,7 +24,7 @@ Ten sites I've built and shipped, all live in production:
 | [ritourstravel.com](https://ritourstravel.com) | Curated travel packages | HTML, CSS, JavaScript |
 | [chiefscabin.online](https://chiefscabin.online) | Restaurant & snack in Yahchouch | HTML, CSS |
 
-Source for these lives in private repositories. Happy to walk through any of them on request.
+Source for the sites lives in private repositories. Happy to walk through any of them on request.
 
 ## What I work with
 
