@@ -8,11 +8,13 @@ and containerised deployments.
 
 ## Selected work
 
-Eight sites I've built and shipped, all live in production:
+Ten sites I've built and shipped, all live in production:
 
 | Site | What it is | Built with |
 |---|---|---|
 | [sfeir-climatec.com](https://sfeir-climatec.com) | Air conditioning & eco-friendly climate solutions in Beirut, for a 47-year-old family business | Next.js 15, TypeScript, Tailwind CSS, Nodemailer |
+| [pierrecardinme.com](https://pierrecardinme.com) | Pierre Cardin Middle East's accessories store: leather goods, cigar accessories & writing instruments | WordPress, WooCommerce, Elementor, PHP |
+| [vietrendy.com](https://vietrendy.com) | Designer handbag rental by subscription, delivered across Lebanon | WordPress, WooCommerce, WooCommerce Memberships, PHP |
 | [k3greekproperties.com](https://k3greekproperties.com) | Greek property listings & investment | React |
 | [promoplaceonline.com](https://promoplaceonline.com) | Promotional products catalogue & shop | HTML, CSS, JavaScript, PHP |
 | [kabbanigrouplb.com](https://kabbanigrouplb.com) | Corporate site with project portfolio | HTML, Sass, jQuery |
