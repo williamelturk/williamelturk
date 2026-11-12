@@ -3,16 +3,16 @@
 I design and build websites for businesses across Lebanon and the Middle East, from static
 marketing sites to full Next.js applications with server-side forms and CMS-free content models.
 
-Currently going deeper on backend architecture: .NET microservices, message-driven systems,
-and containerised deployments.
+After completing Carsties, I’m now building Fashion Store with Next.js and .NET microservices.
 
 ## Selected work
 
-Ten sites live in production, two enterprise platforms delivered as technical lead, and the project I'm building now:
+Alongside Fashion Store, my work includes a completed auction platform, two enterprise platforms I delivered as technical lead, and ten sites live in production.
 
 | Site | What it is | Built with |
 |---|---|---|
-| [Carsties](https://github.com/williamelturk/Carsties) | Auction platform built as .NET microservices (in progress) | .NET, C#, PostgreSQL, MongoDB, EF Core, Docker |
+| [Fashion Store](#currently-building) | Fashion e-commerce platform with customer accounts and an order management dashboard (in development) | Next.js, TypeScript, .NET 10, PostgreSQL, Docker Compose |
+| [Carsties](https://github.com/williamelturk/Carsties) | Completed auction platform with separate auction and search services | .NET, C#, PostgreSQL, MongoDB, EF Core, Docker |
 | [Campus Radar](https://williamelturk.github.io/case-studies/campus-radar-case-study.pdf) | Higher-education performance intelligence platform for a Gulf college network: KPI reporting, student analytics & resource planning (case study PDF) | Next.js 15, TypeScript, .NET 8, EF Core, SQL Server, Redis, Power BI |
 | [WorkForce IQ](https://williamelturk.github.io/case-studies/workforce-iq-case-study.pdf) | Government workforce productivity platform, bilingual EN/AR: data collection, medallion warehouse & executive reporting (case study PDF) | Blazor Server, .NET 8, EF Core, SQL Server, SSIS, MinIO, Power BI |
 | [sfeir-climatec.com](https://sfeir-climatec.com) | Air conditioning & eco-friendly climate solutions in Beirut, for a 47-year-old family business | Next.js 15, TypeScript, Tailwind CSS, Nodemailer |
@@ -37,6 +37,6 @@ Source for the sites lives in private repositories. Happy to walk through any of
 
 ## Currently building
 
-[**Carsties**](https://github.com/williamelturk/Carsties), an auction platform built as .NET
-microservices: independent Auction and Search services with PostgreSQL and MongoDB, EF Core,
-and Docker Compose orchestration.
+For **Fashion Store**, I’ve built a shared account screen where customers and admins can edit their profiles and change their passwords. The admin dashboard also lets staff confirm orders, mark them as shipped or delivered, and cancel orders to release reserved stock.
+
+The Next.js frontend connects to separate .NET services for the product catalogue, media, identity, and orders. Each service has its own PostgreSQL database. I run the full stack locally with Docker Compose and use Bruno to test the APIs.
